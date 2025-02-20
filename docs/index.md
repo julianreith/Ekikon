@@ -1,8 +1,5 @@
 # Willkommen zu Ekikon 🚀
-Dies ist die Dokumentation für mein Projekt.
+Dies ist die Dokumentation für die Ekikon Website.
 
-## Erste Schritte
-1. Klone das Repository
-   ```sh
-   git clone https://github.com/julianreith/Ekikon.git
-   cd Ekikon
+## Zugang zur Website
+Der Zugang erfolgt immer über https://www.webflow.com
